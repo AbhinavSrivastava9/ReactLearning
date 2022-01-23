@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h2>lets get started and work hard on it..</h2>
-      <p>This is also visible</p>
+      <p>This is also visible.</p>
     </div>
   );
 }
